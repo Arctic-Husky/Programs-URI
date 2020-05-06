@@ -1,6 +1,6 @@
 O que estudar:<br>
 <br>
-C<br>
+<h1>C</h1><br>
   cap 1 *feito :)*<br>
   cap 2 *feito :)*<br>
   cap 3 *feito :)*<br>
@@ -16,6 +16,6 @@ C<br>
   cap 13<br>
   cap 14<br>
 <br>
-C++<br>
+<h1>C++</h1><br>
 <br>
-C#
+<h1>C#</h1>
