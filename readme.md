@@ -1,9 +1,9 @@
 O que estudar:<br>
 <br>
 <h1>C</h1><br>
-  cap 1 <input type="checkbox" checked>feito :)</input><br>
-  cap 2 <i>feito :)</i><br>
-  cap 3 <i>feito :)</i><br>
+  cap 1 <b>feito :)</b><br>
+  cap 2 <b>feito :)</b><br>
+  cap 3 <b>feito :)</b><br>
   cap 4<br>
   cap 5<br>
   cap 6<br>
