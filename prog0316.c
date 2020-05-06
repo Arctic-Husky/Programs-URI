@@ -16,7 +16,7 @@ int main() {
         case '_':
         case ':':
         case '\\': resultado = num1 / num2; break;
-        default : printf("Operador invalido");
+        default : printf("Operador invalido"); return 0;
     }
     printf("%.2lf %c %.2lf = %.2lf", num1, operador, num2, resultado);
 return 0;
