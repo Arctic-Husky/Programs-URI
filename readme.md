@@ -1,0 +1,21 @@
+O que estudar:<br>
+<br>
+C<br>
+  cap 1 *feito :)*<br>
+  cap 2 *feito :)*<br>
+  cap 3 *feito :)*<br>
+  cap 4<br>
+  cap 5<br>
+  cap 6<br>
+  cap 7<br>
+  cap 8<br>
+  cap 9<br>
+  cap 10<br>
+  cap 11<br>
+  cap 12<br>
+  cap 13<br>
+  cap 14<br>
+<br>
+C++<br>
+<br>
+C#
