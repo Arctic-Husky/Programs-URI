@@ -1,9 +1,9 @@
 O que estudar:<br>
 <br>
 <h1>C</h1><br>
-  <del>cap 1</del><pre><b>   :)</b></pre><br>
-  <del>cap 2</del><pre><b>   :)</b></pre><br>
-  <del>cap 3</del><pre><b>   :)</b></pre><br>
+  <del>cap 1</del><b>   :)</b><br>
+  <del>cap 2</del><b>   :)</b><br>
+  <del>cap 3</del><b>   :)</b><br>
   cap 4<br>
   cap 5<br>
   cap 6<br>
