@@ -3,6 +3,7 @@
 What to study:<br>
 <br>
 <h1>C</h1><br>
+Book: Luís Damas - Linguagem C<br>
   <del>chapter 1</del><b>   :)</b><br>
   <del>chapter 2</del><b>   :)</b><br>
   <del>chapter 3</del><b>   :)</b><br>
@@ -22,4 +23,4 @@ What to study:<br>
 No book to read yet
 <br>
 <h1>C#</h1><br>
-Not book to read yet
+No book to read yet
