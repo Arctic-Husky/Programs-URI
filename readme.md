@@ -3,7 +3,7 @@
 What to study:<br>
 <br>
 <h1>C</h1><br>
-Book: Luís Damas - Linguagem C<br>
+Book: Luís Damas - Linguagem C<br><br>
   <del>chapter 1</del><b>   :)</b><br>
   <del>chapter 2</del><b>   :)</b><br>
   <del>chapter 3</del><b>   :)</b><br>
