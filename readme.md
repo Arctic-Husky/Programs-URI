@@ -7,7 +7,7 @@ Book: Luís Damas - Linguagem C<br><br>
   <del>chapter 1</del><b>   :)</b><br>
   <del>chapter 2</del><b>   :)</b><br>
   <del>chapter 3</del><b>   :)</b><br>
-  <del>chapter 4</del><br>  :)</b><br>
+  <del>chapter 4</del><b>  :)</b><br>
   chapter 5<br>
   chapter 6<br>
   chapter 7<br>
