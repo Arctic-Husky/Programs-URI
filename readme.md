@@ -9,7 +9,7 @@ Book: Luís Damas - Linguagem C<br><br>
   <del>chapter 3 : Tests and Conditions</del><b>   :)</b><br>
   <del>chapter 4 : Loops</del><b>  :)</b><br>
   <del>chapter 5 : Functions and Procedures</del><b>  :)</b><br>
-  chapter 6 : Arrays <--- I'm currently here!~<br> 
+  chapter 6 : Arrays <--- I'm currently here!<br> 
   chapter 7 : Strings<br>
   chapter 8 : Pointers<br>
   chapter 9 : Parameter Passing<br>
