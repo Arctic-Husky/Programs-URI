@@ -4,20 +4,20 @@ What to study:<br>
 <br>
 <h1>C</h1><br>
 Book: Luís Damas - Linguagem C<br><br>
-  <del>chapter 1</del><b>   :)</b><br>
-  <del>chapter 2</del><b>   :)</b><br>
-  <del>chapter 3</del><b>   :)</b><br>
-  <del>chapter 4</del><b>  :)</b><br>
-  <del>chapter 5</del><b>  :)</b><br>
-  chapter 6<br>
-  chapter 7<br>
-  chapter 8<br>
-  chapter 9<br>
-  chapter 10<br>
-  chapter 11<br>
-  chapter 12<br>
-  chapter 13<br>
-  chapter 14<br>
+  <del>chapter 1 : My First Program</del><b>   :)</b><br>
+  <del>chapter 2 : Types of Basic Data</del><b>   :)</b><br>
+  <del>chapter 3 : Tests and Conditions</del><b>   :)</b><br>
+  <del>chapter 4 : Loops</del><b>  :)</b><br>
+  <del>chapter 5 : Functions and Procedures</del><b>  :)</b><br>
+  chapter 6 : Arrays<br> <--- I'm currently here!~
+  chapter 7 : Strings<br>
+  chapter 8 : Pointers<br>
+  chapter 9 : Parameter Passing<br>
+  chapter 10: Archives<br>
+  chapter 11: Structures<br>
+  chapter 12: Dynamic Memory<br>
+  chapter 13: Macros and the Preprocessor<br>
+  chapter 14: Advanced Aspects<br>
 <br>
 <h1>C++</h1><br>
 No book to read yet
