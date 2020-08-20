@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Procedure == Void Function
+
 void  inic(int s[],int n);
 
 int main()
