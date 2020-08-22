@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-void higrn(char c);
+// For some reason I couldn't get it to work on any of my IDEs, but I works perfectly on Repl.it (https://programas.arctichusky.repl.run/ if you want to test it)
+
+void hicor(char c);
 
 int main()
 {
@@ -10,13 +12,13 @@ int main()
   {
     printf("Please choose a color: ");
     scanf(" %c",&cor);
-    higrn(cor);
+    hicor(cor);
   }
   
   
 }
 
-void higrn(char c)
+void hicor(char c)
 {
   int valcor;
   switch(c)
