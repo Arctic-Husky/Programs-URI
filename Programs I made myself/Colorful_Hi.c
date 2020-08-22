@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// For some reason I couldn't get it to work on any of my IDEs, but I works perfectly on Repl.it (https://programas.arctichusky.repl.run/ if you want to test it)
+// For some reason I couldn't get it to work on any of my IDEs, but I works perfectly on Repl.it (https://ColorfulHi.arctichusky.repl.run/ if you want to try it out)
 
 void hicor(char c);
 
