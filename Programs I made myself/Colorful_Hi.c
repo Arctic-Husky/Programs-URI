@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 // For some reason I couldn't get it to work on any of my IDEs, but I works perfectly on Repl.it (https://ColorfulHi.arctichusky.repl.run/ if you want to try it out)
-
 void hicor(char c);
 
 int main()
@@ -23,11 +22,17 @@ void hicor(char c)
   int valcor;
   switch(c)
   {
+    case 'R':
     case 'r': valcor = 31; break;
+    case 'G':
     case 'g': valcor = 32; break;
+    case 'Y':
     case 'y': valcor = 33; break;
+    case 'B':
     case 'b': valcor = 34; break;
+    case 'M':
     case 'm': valcor = 35; break;
+    case 'C':
     case 'c': valcor = 36; break;
     default : valcor =  0;
   }
