@@ -12,7 +12,7 @@ int main()
 {
     char in[MAX_LIMIT+1];
     int tentativas = 5,erros = 0;
-    char sair;
+    char sair; 
 
     printf("\n\n\tTente descobrir a senha! Voce possui %d tentativas totais\n",tentativas);
 
@@ -29,7 +29,7 @@ int main()
             printf("\n\n\tParabens, voce descobriu a senha em %d tentativa%c!\n",erros,erros==1 ? ' ' : 's');
             printf("\n\n\tPressione <ENTER> para sair...\n\n\n");
             sair = getchar();
-            if(sair=='\n')
+            if(sair=='\n')  // Acho que isso aqui nao ta funcionando, mas mta preguica pra consertar
                 return 0;
         }
         else
