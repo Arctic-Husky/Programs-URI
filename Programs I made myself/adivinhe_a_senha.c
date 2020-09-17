@@ -29,7 +29,7 @@ int main()
             printf("\n\n\tParabens, voce descobriu a senha em %d tentativa%c!\n",erros,erros==1 ? ' ' : 's');
             printf("\n\n\tPressione <ENTER> para sair...\n\n\n");
             sair = getchar();
-            if(sair=='\n')  // Acho que isso aqui nao ta funcionando, mas mta preguica pra consertar
+            if(sair=='\n')  // Acho que isso aqui nao ta funcionando, mas nao ta fazendo diferenca no funcionamento do codigo e to com mta preguica pra consertar
                 return 0;
         }
         else
