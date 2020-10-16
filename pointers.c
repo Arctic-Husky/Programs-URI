@@ -17,3 +17,25 @@ int main()
     *q=&num2;
     a=(*p)*(*q); // Igual a a = num1 * num2
 }
+
+// Outro exemplo
+
+#include <stdio.h>
+
+void troca(int *a,int *b);
+
+int main()
+{
+    int num1,num2;
+    scanf("%d%d",&num1,&num2);
+    troca(&num1,&num2);
+    printf("\n\n%d %d",num1,num2);
+    return 0;
+}
+
+void troca(int *a,int *b)
+{
+    *a = *a + *b;
+    *b = *a - *b;
+    *a = *a - *b;
+}
