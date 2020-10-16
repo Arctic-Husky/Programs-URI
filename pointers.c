@@ -1,3 +1,6 @@
+// IMPORTANTE :      *i++ diferente de (*i)++ , a precedencia do ++ é maior que o ponteiro *
+
+
 #include <stdio.h>
 
 int main()
