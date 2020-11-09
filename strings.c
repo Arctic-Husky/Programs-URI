@@ -24,5 +24,6 @@ void nomear(char *nome)
     {
 
     }
-    nome[i-1] = '\0';
+    nome[i-1] = '\0'; // A funcao fgets() coloca um \n na string, esta linha e pra remove-lo 
+                      // The fgets() function puts a \n in the string, the point of this line is to remove it
 }
