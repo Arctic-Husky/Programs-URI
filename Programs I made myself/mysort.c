@@ -4,12 +4,12 @@ que checa se um número é maior que o próximo e, se sim, troca os dois de luga
 #define TAMANHO 6
 int i;
 
-void le_vetor(int vet[]);
+void le_vetor(int vet[]); // Le os dados inseridos pelo usuário
 
-void ordena_crescente(int vet[]);
-int verif_ordem(int vet[]);
+void ordena_crescente(int vet[]); // Ordena o vetor crescentemente
+int verif_ordem(int vet[]); // Verifica se o vetor está ordenado crescentemente, retornando 1 se está ordenado e 0 caso contrário
 
-void mostra_vetor(int vet[]);
+void mostra_vetor(int vet[]); // Mostra o vetor
 
 int main()
 {
