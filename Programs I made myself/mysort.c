@@ -1,5 +1,6 @@
 /* Neste código eu tento colocar em ordem crescente os numeros de um vetor de qualquer tamanho, e acredito que esse algoritimo que eu fiz tem o nome de bubble sort,
 que checa se um número é maior que o próximo e, se sim, troca os dois de lugar. Isso se repete até que o vetor esteja ordenado */
+#include <stdio.h>
 
 #define TAMANHO 6
 int i;
