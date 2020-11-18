@@ -21,3 +21,15 @@ int main()
 }
 INPUT: ZABUZA MOMOCHI
 OUTPUT: ZABUZA
+
+HOW TO FIX THIS :
+
+int main()
+{
+    char str[11];
+
+    scanf(" %10[^\n]", str);          <- gets everything up to 10 characters, and if it finds a \n in the string, it stops printing
+
+    printf("%s",str);
+}
+
