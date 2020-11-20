@@ -25,5 +25,5 @@ void nomear(char *nome)
 
     }
     nome[i-1] = '\0'; // A funcao fgets() coloca um \n na string, esta linha substitui-o por um finalizador de string
-                      // The fgets() function puts a \n in the string, the point of this line is to replace it with the character '\0'
+                      // The fgets() function puts a \n in the string, this line replaces it with the character '\0'
 }
