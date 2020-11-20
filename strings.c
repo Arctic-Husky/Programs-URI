@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-const int LIMITE = 20;
+const int LIMITE = 20; // Lembrança: 19 espaços serão usados pra string, o último será para o caractere finalizador '\0'
 
 void nomear(char *nome);
 
