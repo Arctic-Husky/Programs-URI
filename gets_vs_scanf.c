@@ -28,7 +28,7 @@ int main()
 {
     char str[11];
 
-    scanf(" %10[^\n]", str);          <- gets everything up to 10 characters, and if it finds a \n in the string, it stops printing
+    scanf(" %10[^\n]", str);          <- gets everything up to 10 characters, and if it finds a \n in the string (when you press enter), it stops printing
 
     printf("%s",str);
 }
