@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,9 +8,12 @@ namespace Treino
 {
     public class Jogo
     {
-        int numero;
-        String nome;
-        double valor;
+        private int numero;
+        private String nome;
+        private double valor;
+
+        public int teste;
+        public String testeString;
 
         public void setNumero(int numero)
         {
