@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Link para caso queira testar o jogo: https://repl.it/@ArcticHusky/Jogo-da-Forca#main.cs
+
 namespace Jogo_da_Forca_2
 {
     /* 
