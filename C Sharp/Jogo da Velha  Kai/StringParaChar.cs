@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +10,7 @@ namespace Jogo_da_Forca_2
     {
         List<Char> palavraChars = new List<Char>();
         List<Char> Encriptada = new List<Char>();
+        public Char Letra { get; private set; }
 
         public List<Char> retornaChars(String palavraStr)
         {
@@ -33,6 +34,16 @@ namespace Jogo_da_Forca_2
                     Encriptada.Add('_');
             }
             return Encriptada;
+        }
+
+        public Char pegaLetra(String letraStr)
+        {
+            for(int i = 0; i < 1; i++)
+            {
+                Letra = letraStr[i];
+            }
+
+            return Letra;
         }
     }
 }
