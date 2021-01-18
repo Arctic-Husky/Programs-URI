@@ -1,14 +1,10 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jogo_da_Forca_2 /*
-                          O que mudou nesta versão: 
-                            - Programa dividido em mais classes
-                            - Mudança da função ReadKey para ReadLine
-                          */
+namespace Jogo_da_Forca_2
 {
     /* 
      A fazer:
@@ -21,7 +17,11 @@ namespace Jogo_da_Forca_2 /*
             6- Caso a palavra seja formada por inteiro o jogo termina
 
      */
-    class Program
+    class Program /*
+                     O que mudou nesta versão: 
+                       - Programa dividido em mais classes
+                       - Mudança da função ReadKey para ReadLine
+                   */
     {
         static void Main(string[] args)
         {
@@ -36,7 +36,7 @@ namespace Jogo_da_Forca_2 /*
             //int qtdLetras;
             int encontrouTotal = 0;
             bool venceu = false;
-            char letra;
+            Char letra;
 
             Console.Write("\n\n\tMestre, escreva a palavra sem acentos: ");
             String palavra = Console.ReadLine();
@@ -62,7 +62,8 @@ namespace Jogo_da_Forca_2 /*
                 Console.Write(morreu);
                 Console.Write("\n\n");
                 Console.Write("\n\tInsira uma letra: ");
-                letra = Console.ReadKey().KeyChar;
+                letra = StrToChar.pegaLetra(Console.ReadLine());
+
                 /*if (letra == '0')
                 {
                     Console.Write("\n\n\tInsira a palavra: ");                  <--- Minha tentativa de fazer com que o jogador possa adivinhar a palavra inteira
