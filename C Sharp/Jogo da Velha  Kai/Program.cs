@@ -4,7 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Jogo_da_Forca_2
+namespace Jogo_da_Forca_2 /*
+                          O que mudou nesta versão: 
+                            - Programa dividido em mais classes
+                            - Mudança da função ReadKey para ReadLine
+                          */
 {
     /* 
      A fazer:
