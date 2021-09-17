@@ -1,0 +1,16 @@
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\bin\Debug\net5.0\ExerciciosRicardo.exe
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\bin\Debug\net5.0\ExerciciosRicardo.deps.json
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\bin\Debug\net5.0\ExerciciosRicardo.runtimeconfig.json
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\bin\Debug\net5.0\ExerciciosRicardo.runtimeconfig.dev.json
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\bin\Debug\net5.0\ExerciciosRicardo.dll
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\bin\Debug\net5.0\ref\ExerciciosRicardo.dll
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\bin\Debug\net5.0\ExerciciosRicardo.pdb
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\obj\Debug\net5.0\ExerciciosRicardo.csproj.AssemblyReference.cache
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\obj\Debug\net5.0\ExerciciosRicardo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\obj\Debug\net5.0\ExerciciosRicardo.AssemblyInfoInputs.cache
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\obj\Debug\net5.0\ExerciciosRicardo.AssemblyInfo.cs
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\obj\Debug\net5.0\ExerciciosRicardo.csproj.CoreCompileInputs.cache
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\obj\Debug\net5.0\ExerciciosRicardo.dll
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\obj\Debug\net5.0\ref\ExerciciosRicardo.dll
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\obj\Debug\net5.0\ExerciciosRicardo.pdb
+C:\DevC\ExerciciosRicardo\ExerciciosRicardo\obj\Debug\net5.0\ExerciciosRicardo.genruntimeconfig.cache
